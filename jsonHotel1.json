@@ -1,0 +1,23 @@
+[
+    {
+        "hotelName": "Hotel Da Vinci",
+        "dates": {
+            "checkIn": "2024-10-05",
+            "checkOut": "2024-10-14"
+        }
+    },
+    {
+        "hotelName": "Sultan Cave Suites ",
+        "dates": {
+            "checkIn": "2024-10-28",
+            "checkOut": "2024-11-05"
+        }
+    },
+    {
+        "hotelName": "Arinna Cappadocia",
+        "dates": {
+            "checkIn": "2024-10-05",
+            "checkOut": "2024-10-14"
+        }
+    }
+]
